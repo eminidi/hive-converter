@@ -1,0 +1,1 @@
+javascript:(function(){location.assign("//" + ((location.hostname == "esteem.app") ? "hive.blog" : "esteem.app") + ((location.pathname.split("/")[1].indexOf("@") == -1) ? location.pathname : ("/" + location.pathname.split("/")[1])))})();
