@@ -1,1 +1,0 @@
-javascript:(function(){location.assign("//" + ((location.hostname == "peakd.com") ? "hive.blog" : "peakd.com") + ((location.pathname.split("/")[1].indexOf("@") == -1) ? location.pathname : ("/" + location.pathname.split("/")[1])))})();
