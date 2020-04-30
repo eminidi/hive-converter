@@ -1,5 +1,5 @@
 # hive-converter
-Hive-converter allows you to easily switch from a steemit page to busy, steemit to utopian, steemit to PeakD ... very easily.
+Hive-converter allows you to easily switch from a Hive page to PeakD, Hive to eSteem, eSteem to PeakD... very easily.
 
 ------
 # [EN]
@@ -21,8 +21,8 @@ This tool allows you to replace the link automatically and therefore to switch f
 Insert each code in your browser as bookmark. Click on the Switch correspondent to each change.
 
 Presentation article link: 
-- [EN] : http://hive.blog/@eminidi/utopian-io/hive-converter
- Other languages: Soon
+- [EN] : http://hive.blog/@eminidi/
+- Other languages: Soon
 
 ## Compatibility
 
