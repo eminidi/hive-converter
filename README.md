@@ -1,3 +1,5 @@
+Hive-converter is a modification of "steem-converter"
+
 # hive-converter
 Hive-converter allows you to easily switch from a Hive page to PeakD, Hive to eSteem, eSteem to PeakD... very easily.
 
